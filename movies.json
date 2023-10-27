@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1235345345345345",
+        "title": "Jaws: Origins",
+        "releaseDate": "12-12-2002",
+        "directedBy": {
+            "id": "j123g567",
+            "name": "Spieven Stielberg"
+        },
+        "score": 4.3,
+        "cast": [
+            {
+                "id": "R123J666",
+                "name": "Reremy Jenner"
+            },
+            {
+                "id": "J123S266",
+                "name": "Jarlet Scohansson"
+            },
+            {
+                "id": "B111B626",
+                "name": "Bryan Breynolds"
+            }
+        ]
+    },
+    {
+        "id": "1235345345345345",
+        "title": "Cars: Return of Franchesco",
+        "releaseDate": "12-12-2009",
+        "directedBy": {
+            "id": "s153m167",
+            "name": "Sartin Mcoreseshi"
+        },
+        "score": 4.7,
+        "cast": [
+            {
+                "id": "H123O666",
+                "name": "Hanthony Opkins"
+            },
+            {
+                "id": "N689L168",
+                "name": "Niam Leeson"
+            },
+            {
+                "id": "S7634M114",
+                "name": "Seryl Mtreep"
+            }
+        ]
+    }
+]
