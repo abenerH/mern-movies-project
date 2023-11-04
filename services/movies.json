@@ -1,13 +1,13 @@
 [
     {
-        "id": "1",
-        "title": "Jaws: Origins",
+        "id": "1235345-1235345",
+        "title": "Jaws",
         "releaseDate": "12-12-2002",
         "directedBy": {
             "id": "j123g567",
             "name": "Spieven Stielberg"
         },
-        "score": 4.3,
+        "score": 8,
         "cast": [
             {
                 "id": "R123J666",
@@ -24,14 +24,14 @@
         ]
     },
     {
-        "id": "1",
-        "title": "Cars: Return of Franchesco",
+        "id": "1235345-1235345",
+        "title": "Jaws",
         "releaseDate": "12-12-2009",
         "directedBy": {
             "id": "s153m167",
             "name": "Sartin Mcoreseshi"
         },
-        "score": 4.7,
+        "score": 77,
         "cast": [
             {
                 "id": "H123O666",

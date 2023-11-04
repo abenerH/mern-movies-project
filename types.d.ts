@@ -1,14 +1,11 @@
-export type movieEntries = {
-    id: string,
-    title: string,
-    releaseDate: string,
-    directedBy: {
-        id: string,
-        name: string
-    },
-    score: number,
-    cast: {
-        id: string,
-        name: string,
-    }[]
+export interface movieEntries {
+  id: string
+  title: string
+  releaseDate: Date
+  score: number
+  directedBy: string
+  cast: string[]
+  poster: string?
 }
+
+export type scoreOnlyMovies = Pick<movieEntries, 'title' | 'score'>
